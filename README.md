@@ -2,8 +2,7 @@
 # Customer Support Ticket Analysis 
 This project presents a comprehensive analysis of a Customer Support Ticket Dataset, focused on deriving actionable insights related to service performance, customer satisfaction, and process optimization. It includes data cleaning, feature engineering in Python, and an interactive dashboard built in Tableau.
 
-🔍 Objective
-To simulate the work of a Data Analyst or Service Insights Analyst by:
+Objective:
 
 Measuring ticket response and resolution times
 
